@@ -79,3 +79,7 @@ El resultado de `flutter analyze` fue `No issues found!`.
 ## Repositorio
 
 https://github.com/OAvillatoro/lab_habitos_Oscar_Villatoro
+
+## Video de demostración
+
+[Ver video de demostración en YouTube](https://youtu.be/8WcXIC4Kjr4)
